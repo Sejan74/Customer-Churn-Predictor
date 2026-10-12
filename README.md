@@ -31,5 +31,5 @@ customer-churn-predictor/
 ├── app11.py                    # Streamlit dashboard interface
 ├── requirements.txt           # Dependencies list
 └── README.md                  # Project documentation
-## 📸 Interface 
+## Interface Preview
 ![Churn Predictor Dashboard](https://github.com/Sejan74/Full-Stack-Machine-Learning-Churn-Analysis-System/blob/main/Screenshot%202026-10-13%20000801.png?raw=true)
