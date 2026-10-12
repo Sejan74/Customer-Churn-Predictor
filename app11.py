@@ -137,7 +137,7 @@ with col2:
         """, unsafe_allow_html=True)
 
         st.write("")
-        st.progress(prediction_prob)
+        sst.progress(float(prediction_prob))
 
         if risk_percentage > 50:
             st.error("⚠️ High Risk of Churn! This customer is likely to leave the service.")
