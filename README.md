@@ -20,7 +20,7 @@ A full-stack Machine Learning web application designed to evaluate customer rete
 
 ---
 ## Interface Preview
-![Churn Predictor Dashboard](https://github.com/Sejan74/Full-Stack-Machine-Learning-Churn-Analysis-System/blob/main/Screenshot%202026-10-13%20000801.png?raw=true)
+![Churn Predictor Dashboard(https://github.com/Sejan74/Full-Stack-Machine-Learning-Churn-Analysis-System/blob/main/screencapture-localhost-8502-2026-10-13-01_57_37.png?raw=true)
 ## 📂 Project Architecture
 
 ```text
